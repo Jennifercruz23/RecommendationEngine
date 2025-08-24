@@ -1,0 +1,2 @@
+# RecommendationEngine
+Professional RecommendationEngine framework with RecommendationEngine-optimized enterprise-grade and enterprise scalable-architecture capabilities
